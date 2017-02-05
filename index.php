@@ -11,7 +11,7 @@
 </head>
   <div class="row">
     <nav>
-        <div class="nav-wrapper deep-purple darken-2">
+        <div class="nav-wrapper purple darken-2">
           <div class="col s12">
             <a href="#" class="brand-logo">Logo</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
